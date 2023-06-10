@@ -1,6 +1,6 @@
 name: DataCap Removal Proposal
 description: Use this application form to modify/remove DataCap from a certain addresses
-labels: Proposal,DcRemoveRequest
+labels: DcRemoveRequest
 assignees: fabriziogianni7
 body:
 - type: markdown
